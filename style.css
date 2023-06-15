@@ -1,5 +1,6 @@
 
  body {
+<<<<<<< HEAD
     color: white;
     background-color: green;
     font-family: 'Sacramento', cursive;
@@ -11,6 +12,10 @@
  body {
     color: red;
     background-color:White;
+=======
+    color: red;
+    background-color: #333;
+>>>>>>> 284607f2187410d92fad2de5ba73c1e49eb5c1cb
     font-size: 150%;
     font-family: 'Satisfy', cursive;
     margin: 5em 25%;
